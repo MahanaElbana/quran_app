@@ -1,4 +1,4 @@
-![islam icon](https://2u.pw/hREaX)
+![google icon](https://2u.pw/hREaX)
 # quran_app
 ## Islamic program
 ### Include

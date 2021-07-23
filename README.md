@@ -1,5 +1,5 @@
 
-# quran_app
+# quran_app ♥️:
 ## Islamic program
 ### Include
 #### الاذان 
@@ -7,6 +7,4 @@
 #### السبحه 
 #### الاذكار 
 #### الاحاديث 
-```Dart
-print("hello world!");
-```
+
